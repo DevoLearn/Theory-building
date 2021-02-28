@@ -7,4 +7,10 @@ Theory from Cases:
 Theory as Conceptual Integration:
 
 
+Example: Category Theory (symbolic system):
+
+
+Example: Development as trees and landscapes (metaphors):
+
+
 Annotated Bibliography:
