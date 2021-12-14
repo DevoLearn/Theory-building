@@ -13,4 +13,5 @@ Example: Category Theory (symbolic system):
 Example: Development as trees and landscapes (metaphors):
 
 
-Annotated Bibliography:
+Resources: 
+1) [Tools for Theory](https://www.cbs.mpg.de/en/tools-for-theory) (Max Planck Institute).
